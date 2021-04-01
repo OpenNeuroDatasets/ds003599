@@ -1,0 +1,15 @@
+{
+  "Name": "White matter deficits in cocaine use disorder V1.0",
+  "BIDSVersion": "1.0.2",
+  "DatasetType": "raw",
+  "License": "PDDL",
+ "Authors": [
+    "Lucca Pizzato Tondo",
+    "Thiago Wendt Viola",
+    "Bruno Kluwe-Schiavon",
+    "Leonardo Mello Rothmann",
+    "Pedro Ferreira",
+    "Alexandre Rosa Franco",
+    "Rodrigo Oliveira-Grassi"
+  ]
+ }
